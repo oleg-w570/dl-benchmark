@@ -125,7 +125,7 @@ ctdet_coco_dlav0_384|+|-|-|-|
 ctdet_coco_dlav0_512|+|-|-|-|
 ctpn|+|отсутствуют данные|-|-|
 faceboxes-pytorch|+|-|-|-|
-face-detection-retail-0044|+|-|-|-|
+face-detection-retail-0044|+|+|-|-|
 ***faster_rcnn_inception_resnet_v2_atrous_coco***|+|+|-|-|
 ***faster_rcnn_inception_v2_coco***|+|+|-|-|
 ***faster_rcnn_resnet101_coco***|+|+|-|-|
@@ -138,14 +138,14 @@ mtcnn|+|пайплайн из трех моделей|-|-|
 rfcn-resnet101-coco-tf|+|-|-|-|
 ssd300|+|+|+|+|
 ssd512|+|+|+|+|
-ssdlite_mobilenet_v2|+|-|-|-|
+ssdlite_mobilenet_v2|+|+|-|-|
 ssd_mobilenet_v1_fpn_coco|+|+|+|+|
 ssd_mobilenet_v2_coco|+|+|+|+|
 ssd-resnet34-1200-onnx|+|-|-|-|
 ssd_resnet50_v1_fpn_coco|+|+|+|+|
 ultra-lightweight-face-detection-rfb-320|+|-|-|-|
 ultra-lightweight-face-detection-slim-320|+|-|-|-|
-vehicle-license-plate-detection-barrier-0123|+|-|-|-|
+vehicle-license-plate-detection-barrier-0123|+|+|-|-|
 ***yolo-v1-tiny-tf***|+|+|-|+|
 ***yolo-v2-tiny-tf***|+|+|-|+|
 ***yolo-v2-tf***|+|+|-|+|
